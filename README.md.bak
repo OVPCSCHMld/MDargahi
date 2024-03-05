@@ -7,9 +7,8 @@ application, web development, and cyber security.
 ## Projects
 Here are some of the projects I've been working on:
 
-- [Project 1](link_to_project_1): Brief description of the project.
-- [Project 2](link_to_project_2): Brief description of the project.
-- [Project 3](link_to_project_3): Brief description of the project.
+- User Registratin App with react Native (https://github.com/OVPCSCHMld/React-Native-App-User-Registration-in-MySql-phpMyAdmin): In this project react native application is created which is connected to MySql database; the app can register new users.
+
 
 Feel free to explore my repositories to see more of my work!
 

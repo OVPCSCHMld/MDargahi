@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile!
+# Welcome to M Dargahi's GitHub Profile!
 
 ## About Me
 I'm a passionate software developer with a keen interest in exploring new technologies and solving real-world problems through code. My areas of expertise include datascience, machine learing, artificial intelligence, mobile
